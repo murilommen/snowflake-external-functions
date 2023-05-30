@@ -1,3 +1,3 @@
 ```
-docker build -t snowflake-whylogs-integ 
+docker build -t snowflake-whylogs-integ .
 ```
