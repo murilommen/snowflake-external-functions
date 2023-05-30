@@ -1,0 +1,12 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+protobuf==4.23.2
+python-dateutil==2.8.2
+requests==2.31.0
+six==1.16.0
+typing_extensions==4.6.2
+urllib3==2.0.2
+whylabs-client==0.5.1
+whylogs==1.1.42
+whylogs-sketching==3.4.1.dev3
